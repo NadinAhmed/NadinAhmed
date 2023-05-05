@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Contact Me:
+[<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/linkedin.png" width="48" height="48">](https://www.linkedin.com/in/nadin-ahmed-)
+[<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/twitter.png" width="48" height="48">](https://twitter.com/Nadin_Ahmed_)
+[<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/codeforces.png" width="48" height="48">](https://codeforces.com/profile/Nadin-Ahmed)
+
 <!--
 **NadinAhmed/NadinAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
