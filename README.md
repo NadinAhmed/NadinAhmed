@@ -2,6 +2,7 @@
 
 #### Contact Me:
 [<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/linkedin.png" width="48" height="48">](https://www.linkedin.com/in/nadin-ahmed-)
+[<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/wuzzuf.png" width="48" height="48">](https://wuzzuf.net/me/Nadin-Ahmed)
 [<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/twitter.png" width="48" height="48">](https://twitter.com/Nadin_Ahmed_)
 [<img src="https://github.com/NadinAhmed/NadinAhmed/blob/main/codeforces.png" width="48" height="48">](https://codeforces.com/profile/Nadin-Ahmed)
 
